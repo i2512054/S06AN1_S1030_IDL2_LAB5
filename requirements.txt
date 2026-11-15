@@ -1,0 +1,7 @@
+spyne
+zeep
+lxml
+requests
+openai
+pydantic
+python-dotenv
